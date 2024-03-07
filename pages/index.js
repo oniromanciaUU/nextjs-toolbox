@@ -8,15 +8,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Toolbox</title>
+        <title>Copy the below text</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Blah" />
+        <Header title="rundll32 printui.dll,PrintUIEntry /y /in /n \\edp-uu-prn01.user.uu.se\eduPrint-UU" />
         <hr />
         <p className="description">
-          Blah
+          rundll32 printui.dll,PrintUIEntry /y /in /n \\edp-uu-prn01.user.uu.se\eduPrint-UU
+
+
 
         </p>
         <FeedbackForm />
