@@ -1,10 +1,7 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div>
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
@@ -12,7 +9,7 @@ export default function Home() {
 
       <main>
         <Header title="Copy the below text" />
-        <p className="description">
+        <p>
           rundll32 printui.dll,PrintUIEntry /y /in /n \\edp-uu-prn01.user.uu.se\eduPrint-UU
 
         </p>
