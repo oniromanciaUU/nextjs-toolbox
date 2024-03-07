@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox" />
+        <Header title="Blah" />
         <hr />
         <p className="description">
           Blah
